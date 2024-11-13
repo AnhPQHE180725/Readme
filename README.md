@@ -29,3 +29,12 @@
 </p>
 
 <hr>
+<h4>📫 Connect with me:</h4>
+<p>
+  <a href="https://www.facebook.com/profile.php?id=100022384743986" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/qag77777777/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
